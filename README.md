@@ -6,19 +6,25 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ## 📑 Índice
-- [Proyectos destacados](#proyectos-destacados)
-  - [Helefante diseño y comunicación](#helefante-diseño-y-comunicación)
-  <!-- - [Restaurants Escribà](#restaurants-escribà) -->
-  <!-- - [Solventa IT](#solventa-it) -->
-  <!-- - [Dental Comunicación](#dental-comunicación) -->
-  <!-- - [Ffuuss – Customizador de productos](#ffuuss--customizador-de-productos) -->
-- [Nota](#-nota)
+- [Helefante diseño y comunicación](#helefante-diseño-y-comunicación)
+- [Caternews Digital](#caternews-digital)
+- [Restaurants Escribà](#restaurants-escribà)
+- [Fragrance Science](#fragrance-science)
+- [Ricardo Molina / Ingrentia](#ricardo-molina--ingrentia)
+- [Signo Delta](#signo-delta)
+- [Aymerich Comunicació](#aymerich-comunicació)
+- [AIA – Siopeia](#aia--siopeia)
+- [OTS Group](#ots-group)
+- [Ffuuss – Customizador de productos](#ffuuss--customizador-de-productos)
+- [Common Thinking](#common-thinking)
+<!-- - [Restaurants Escribà](#restaurants-escribà) -->
+<!-- - [Solventa IT](#solventa-it) -->
+<!-- - [Dental Comunicación](#dental-comunicación) -->
+<!-- - [Ffuuss – Customizador de productos](#ffuuss--customizador-de-productos) -->
 
 ---
 
 ## Proyectos destacados
-
-
 
 
 ### Helefante diseño y comunicación
@@ -34,41 +40,86 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ![Helefante](screenshots/helefante/screenshot_helefante_2.png)
 
+---
+
+### Caternews Digital
+- **Descripción:** Portal de noticias relacionadas con el sector HORECA.  
+- **Tecnologías:** WordPress, tema personalizado.  
+- **Diseño:** Proporcionado por Helefante.  
+- **URL:** [caternewsdigital.com](https://caternewsdigital.com)  
 
 ---
 
-<!-- ### Restaurants Escribà
+### Restaurants Escribà
 - **Descripción:** Web corporativa con reservas online, diseño personalizado.  
 - **Tecnologías:** WordPress, PHP, SCSS.  
+- **Diseño:** Proporcionado por Helefante.  
 - **URL:** [restaurantsescriba.com](https://restaurantsescriba.com)  
-![Escribà screenshot](screenshots/restaurantsescriba.png)
 
 ---
 
-### Solventa IT
-- **Descripción:** Web corporativa de soluciones IT.  
-- **Tecnologías:** WordPress, SCSS, PHP.  
-- **URL:** [solventait.com](https://solventait.com)  
-![Solventa screenshot](screenshots/solventait.png)
+### Fragrance Science
+- **Descripción:** Web corporativa para productos de fragancias.  
+- **Tecnologías:** WordPress, tema personalizado.  
+- **Diseño:** Proporcionado por Helefante.  
+- **URL:** [fragrancescience.com](https://fragrancescience.com/es)  
 
 ---
 
-### Dental Comunicación
-- **Descripción:** Portal de servicios de comunicación para clínicas dentales.  
-- **Tecnologías:** WordPress, PHP, SCSS.  
-- **URL:** [dentalcomunicacion.com](https://dentalcomunicacion.com)  
-![Dental screenshot](screenshots/dentalcomunicacion.png)
+### Ricardo Molina / Ingrentia
+- **Descripción:** Webs corporativas del sector químico.  
+- **Tecnologías:** WordPress, tema personalizado.  
+- **Diseño:** Proporcionado por el cliente.  
+- **URLs:** [ricardomolina.com](https://ricardomolina.com) / [ingrentia.com](https://ingrentia.com)  
+
+---
+
+### Signo Delta
+- **Descripción:** Web corporativa del sector industrial.  
+- **Tecnologías:** WordPress, tema personalizado.  
+- **Diseño:** Proporcionado por el cliente.  
+- **URL:** [signodelta.com](https://signodelta.com)  
+
+---
+
+### Aymerich Comunicació
+- **Descripción:** Web corporativa de comunicación.  
+- **Tecnologías:** WordPress, tema personalizado.  
+- **Diseño:** Proporcionado por el cliente.  
+- **URL:** [aymerich-comunicacio.com](https://aymerich-comunicacio.com)  
+
+---
+
+### AIA – Siopeia
+- **Descripción:** Portal corporativo de la Asociación de Ingenieros.  
+- **Tecnologías:** WordPress, tema personalizado.  
+- **Diseño:** Proporcionado por el cliente.  
+- **URL:** [aia.es/siopeia](https://aia.es/siopeia)  
+
+---
+
+### OTS Group
+- **Descripción:** Web corporativa del grupo empresarial.  
+- **Tecnologías:** WordPress, tema personalizado.  
+- **Diseño:** Proporcionado por el cliente.  
+- **URL:** [otsgroup.es](https://otsgroup.es)  
 
 ---
 
 ### Ffuuss – Customizador de productos
 - **Descripción:** Herramienta para personalización de secadores de manos.  
 - **Tecnologías:** WordPress, JavaScript.  
+- **Diseño:** Proporcionado por el cliente (el diseño actual es diferente).  
 - **URL:** [ffuuss.com](https://ffuuss.com)  
 - **Repo asociado:** [doityourself-handdryer-customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)  
-![Ffuuss screenshot](screenshots/ffuuss.png)
 
---- -->
+---
+
+### Common Thinking
+- **Descripción:** Prototipo web (sin finalizar). El proyecto no siguió adelante.  
+- **Tecnologías:** WordPress.  
+- **URL:** [commonthinking.net](https://commonthinking.net)  
+
 
 ## 📌 Nota
 Algunos proyectos han cambiado de diseño o ya no están online. He incluido **capturas de pantalla originales** como referencia.
