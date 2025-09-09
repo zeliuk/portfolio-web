@@ -11,15 +11,18 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Descripción:** Web corporativa de la agencia. Integración de elementos 3D con **Three.js**.  
 - **Tecnologías:** WordPress, Three.js, SCSS, PHP.  
 - **URL:** [helefante.com](https://helefante.com)  
-![Helefante screenshot](assets/helefante.png)
+![Helefante](screenshots/helefante/screenshot_helefante_1.png)
+![Helefante](screenshots/helefante/screenview_helefante_1.mp4)
+[<img src="screenshots/helefante/screenshot_helefante_2.png" height="300">](screenshots/helefante/screenshot_helefante_2.png)
+
 
 ---
 
-### Restaurant Escribà
+<!-- ### Restaurants Escribà
 - **Descripción:** Web corporativa con reservas online, diseño personalizado.  
 - **Tecnologías:** WordPress, PHP, SCSS.  
 - **URL:** [restaurantsescriba.com](https://restaurantsescriba.com)  
-![Escribà screenshot](assets/restaurantsescriba.png)
+![Escribà screenshot](screenshots/restaurantsescriba.png)
 
 ---
 
@@ -27,7 +30,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Descripción:** Web corporativa de soluciones IT.  
 - **Tecnologías:** WordPress, SCSS, PHP.  
 - **URL:** [solventait.com](https://solventait.com)  
-![Solventa screenshot](assets/solventait.png)
+![Solventa screenshot](screenshots/solventait.png)
 
 ---
 
@@ -35,7 +38,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Descripción:** Portal de servicios de comunicación para clínicas dentales.  
 - **Tecnologías:** WordPress, PHP, SCSS.  
 - **URL:** [dentalcomunicacion.com](https://dentalcomunicacion.com)  
-![Dental screenshot](assets/dentalcomunicacion.png)
+![Dental screenshot](screenshots/dentalcomunicacion.png)
 
 ---
 
@@ -44,13 +47,9 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Tecnologías:** WordPress, JavaScript.  
 - **URL:** [ffuuss.com](https://ffuuss.com)  
 - **Repo asociado:** [doityourself-handdryer-customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)  
-![Ffuuss screenshot](assets/ffuuss.png)
+![Ffuuss screenshot](screenshots/ffuuss.png)
 
----
-
-*(y así con el resto de webs que quieras mostrar)*  
-
----
+--- -->
 
 ## 📌 Nota
-Algunos proyectos han cambiado de diseño o ya no están online. En esos casos he incluido **capturas de pantalla originales** como referencia.
+Algunos proyectos han cambiado de diseño o ya no están online. He incluido **capturas de pantalla originales** como referencia.
