@@ -1,4 +1,4 @@
-# 🌐 Portfolio Web – Carlos Turmo
+# 🌐 Portfolio Web
 
 Aquí encontrarás una selección de proyectos web en los que he trabajado, principalmente durante mi etapa en **Helefante Diseño y Comunicación (2012–2025)**.  
 Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a medida y, en algunos casos, integraciones avanzadas con APIs externas.  
@@ -41,8 +41,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### Caternews Digital
-<img src="screenshots/caternews/logo.svg" width="150">
+<img src="screenshots/caternews/logo.svg" width="150" id="caternews-digital">
 
 - **Descripción:** Portal de noticias relacionadas con el sector HORECA.  
 - **Tecnologías:** WordPress, tema personalizado.  
@@ -53,8 +52,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### Restaurants Escribà
-<img src="screenshots/escriba/logo.svg" width="150">
+<img src="screenshots/escriba/logo.svg" width="150" id="restaurants-escribà">
 
 - **Descripción:** Web corporativa con reservas online, diseño personalizado. Cartas digitales.
 - **Tecnologías:** WordPress, PHP, SCSS.  
