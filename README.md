@@ -11,9 +11,10 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Descripción:** Web corporativa de la agencia. Integración de elementos 3D con **Three.js**.  
 - **Tecnologías:** WordPress, Three.js, SCSS, PHP.  
 - **URL:** [helefante.com](https://helefante.com)  
+
 ![Helefante](screenshots/helefante/screenshot_helefante_1.png)
-![Helefante](screenshots/helefante/screenview_helefante_1.mp4)
-[<img src="screenshots/helefante/screenshot_helefante_2.png" height="300">](screenshots/helefante/screenshot_helefante_2.png)
+![Helefante](screenshots/helefante/screenview_helefante_1.gif)
+![Helefante](screenshots/helefante/screenshot_helefante_2.png)
 
 
 ---
