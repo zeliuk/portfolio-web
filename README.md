@@ -128,7 +128,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **URL:** [ffuuss.com](https://ffuuss.com)  
 - **Repo asociado:** [doityourself-handdryer-customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)  
 
-![FFUUSS](https://github.com/zeliuk/doityourself-handdryer-customizer/blob/main/screenshots/ffuuss-one.png)
+![FFUUSS](screenshots/ffuuss/screenshot_ffuuss_1.png)
 
 ---
 <img src="screenshots/commonthinking/logo.svg" width="150" id="common-thinking">
