@@ -33,15 +33,11 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Tecnologías:** WordPress, Three.js, SCSS, PHP.
 - **URL:** [helefante.com](https://helefante.com)  
 
-![Helefante](screenshots/helefante/screenshot_helefante_1.png)
-
 ![Helefante](screenshots/helefante/screenview_helefante_1.gif)
-
-![Helefante](screenshots/helefante/screenshot_helefante_2.png)
 
 ---
 
-<img src="screenshots/caternews/logo.svg" width="150" id="caternews-digital">
+<img src="screenshots/caternews/logo.svg" height="35" id="caternews-digital">
 
 - **Descripción:** Portal de noticias relacionadas con el sector HORECA.  
 - **Tecnologías:** WordPress, tema personalizado.  
@@ -65,7 +61,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-<img src="screenshots/fragrancescience/logo.svg" width="150" id="fragrance-science">
+<img src="screenshots/fragrancescience/logo.svg" height="65" id="fragrance-science">
 
 - **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
@@ -74,7 +70,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-<img src="screenshots/ricardomolina/logo.svg" width="150" id="ricardo-molina--ingrentia">
+<img src="screenshots/ricardomolina/logo.svg" height="50" id="ricardo-molina--ingrentia">
 
 - **Descripción:** Webs corporativas.  
 - **Tecnologías:** WordPress, tema personalizado.  
@@ -110,7 +106,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-<img src="screenshots/otsgroup/logo.svg" width="150" id="ots-group">
+<img src="screenshots/otsgroup/logo.svg" width="200" id="ots-group">
 
 - **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
@@ -119,7 +115,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-<img src="screenshots/ffuuss/logo.svg" width="150" id="ffuuss">
+<img src="screenshots/ffuuss/logo.svg" width="100" id="ffuuss">
 
 - **Descripción:** Web corporativa.
 - **Tecnologías:** WordPress, tema personalizado y customizador de productos.  
