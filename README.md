@@ -7,7 +7,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ## 🚀 Proyectos destacados
 
-### Helefante diseño y comunicación
+### Helefante diseño y comunicación <img src="screenshots/helefante/favicon.png" width="100" height="100">
 - **Descripción:** Web corporativa de la agencia. Integración de elementos 3D con **Three.js**.
 - **Tecnologías:** WordPress, Three.js, SCSS, PHP.
 - **URL:** [helefante.com](https://helefante.com)  
