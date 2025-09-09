@@ -59,7 +59,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### Fragrance Science
-- **Descripción:** Web corporativa para productos de fragancias.  
+- **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por Helefante.  
 - **URL:** [fragrancescience.com](https://fragrancescience.com/es)  
@@ -67,7 +67,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### Ricardo Molina / Ingrentia
-- **Descripción:** Webs corporativas del sector químico.  
+- **Descripción:** Webs corporativas.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
 - **URLs:** [ricardomolina.com](https://ricardomolina.com) / [ingrentia.com](https://ingrentia.com)  
@@ -75,7 +75,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### Signo Delta
-- **Descripción:** Web corporativa del sector industrial.  
+- **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
 - **URL:** [signodelta.com](https://signodelta.com)  
@@ -91,7 +91,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### AIA – Siopeia
-- **Descripción:** Portal corporativo de la Asociación de Ingenieros.  
+- **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
 - **URL:** [aia.es/siopeia](https://aia.es/siopeia)  
@@ -99,7 +99,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### OTS Group
-- **Descripción:** Web corporativa del grupo empresarial.  
+- **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
 - **URL:** [otsgroup.es](https://otsgroup.es)  
@@ -107,8 +107,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### Ffuuss – Customizador de productos
-- **Descripción:** Herramienta para personalización de secadores de manos.  
-- **Tecnologías:** WordPress, JavaScript.  
+- **Descripción:** Web corporativa.
+- **Tecnologías:** WordPress, tema personalizado y customizador de productos.  
 - **Diseño:** Proporcionado por el cliente (el diseño actual es diferente).  
 - **URL:** [ffuuss.com](https://ffuuss.com)  
 - **Repo asociado:** [doityourself-handdryer-customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)  
