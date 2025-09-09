@@ -17,10 +17,6 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - [OTS Group](#ots-group)
 - [Ffuuss](#ffuuss)
 - [Common Thinking](#common-thinking)
-<!-- - [Restaurants Escribà](#restaurants-escribà) -->
-<!-- - [Solventa IT](#solventa-it) -->
-<!-- - [Dental Comunicación](#dental-comunicación) -->
-<!-- - [Ffuuss – Customizador de productos](#ffuuss--customizador-de-productos) -->
 
 ---
 
@@ -65,6 +61,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Diseño:** Proporcionado por Helefante.  
 - **URL:** [fragrancescience.com](https://fragrancescience.com/es)  
 
+![Fragrance Science](screenshots/fragrancescience/screenview_fragrancescience_1.gif)
+
 ---
 
 <img src="screenshots/ricardomolina/logo.svg" height="50" id="ricardo-molina--ingrentia">
@@ -73,6 +71,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
 - **URLs:** [ricardomolina.com](https://ricardomolina.com) / [ingrentia.com](https://ingrentia.com)  
+
+![Ricardo Molina](screenshots/ricardomolina/screenview_ricardomolina_1.gif)
 
 ---
 
@@ -83,6 +83,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Diseño:** Proporcionado por el cliente.  
 - **URL:** [signodelta.com](https://signodelta.com)  
 
+![SignoDelta](screenshots/signodelta/screenview_signodelta_1.gif)
+
 ---
 
 <img src="screenshots/aymerich/logo.svg" width="150" id="aymerich-comunicació">
@@ -91,6 +93,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
 - **URL:** [aymerich-comunicacio.com](https://aymerich-comunicacio.com)  
+
+![Aymerich Comunicació](screenshots/aymerich/screenview_aymerich_1.gif)
 
 ---
 
@@ -101,6 +105,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Diseño:** Proporcionado por el cliente.  
 - **URL:** [aia.es/siopeia](https://aia.es/siopeia)  
 
+![Siopeia](screenshots/siopeia/screenview_siopeia_1.gif)
+
 ---
 
 <img src="screenshots/otsgroup/logo.svg" width="200" id="ots-group">
@@ -109,6 +115,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
 - **URL:** [otsgroup.es](https://otsgroup.es)  
+
+![OTS Group](screenshots/otsgroup/screenview_otsgroup_1.gif)
 
 ---
 
@@ -120,12 +128,16 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **URL:** [ffuuss.com](https://ffuuss.com)  
 - **Repo asociado:** [doityourself-handdryer-customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)  
 
+![FFUUSS](https://github.com/zeliuk/doityourself-handdryer-customizer/blob/main/screenshots/ffuuss-one.png)
+
 ---
 <img src="screenshots/commonthinking/logo.svg" width="150" id="common-thinking">
 
 - **Descripción:** Prototipo web (sin finalizar). El proyecto no siguió adelante.  
 - **Tecnologías:** WordPress.  
 - **URL:** [commonthinking.net](https://commonthinking.net)  
+
+![Common Thinking](screenshots/commonthinking/screenview_commonthinking_1.gif)
 
 
 ## 📌 Nota
