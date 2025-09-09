@@ -7,7 +7,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ## 🚀 Proyectos destacados
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle" style="padding:0; border:0px;"><img src="screenshots/helefante/favicon.png" width="40" height="40" alt="Helefante"></td>
     <td valign="middle" style="padding:0; border:0px;"><h3>Helefante diseño y comunicación</h3></td>
