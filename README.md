@@ -5,12 +5,23 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-## 🚀 Proyectos destacados
+## 📑 Índice
+- [Proyectos destacados](#proyectos-destacados)
+  - [Helefante diseño y comunicación](#helefante)
+  <!-- - [Restaurants Escribà](#restaurants-escribà) -->
+  <!-- - [Solventa IT](#solventa-it) -->
+  <!-- - [Dental Comunicación](#dental-comunicación) -->
+  <!-- - [Ffuuss – Customizador de productos](#ffuuss--customizador-de-productos) -->
+- [Nota](#-nota)
+
+---
+
+## Proyectos destacados
 
 
 <img src="screenshots/helefante/logo.svg" width="150">
 
-### Helefante diseño y comunicación 
+### [Helefante diseño y comunicación](#helefante)
 - **Descripción:** Web corporativa de la agencia. Integración de elementos 3D con **Three.js**.
 - **Tecnologías:** WordPress, Three.js, SCSS, PHP.
 - **URL:** [helefante.com](https://helefante.com)  
