@@ -13,9 +13,9 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - [Ricardo Molina / Ingrentia](#ricardo-molina--ingrentia)
 - [Signo Delta](#signo-delta)
 - [Aymerich Comunicació](#aymerich-comunicació)
-- [AIA – Siopeia](#aia--siopeia)
+- [Grupo AIA – Siopeia](#siopeia)
 - [OTS Group](#ots-group)
-- [Ffuuss – Customizador de productos](#ffuuss--customizador-de-productos)
+- [Ffuuss](#ffuuss)
 - [Common Thinking](#common-thinking)
 <!-- - [Restaurants Escribà](#restaurants-escribà) -->
 <!-- - [Solventa IT](#solventa-it) -->
@@ -65,7 +65,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### Fragrance Science
+<img src="screenshots/fragrancescience/logo.svg" width="150" id="fragrance-science">
+
 - **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por Helefante.  
@@ -73,7 +74,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### Ricardo Molina / Ingrentia
+<img src="screenshots/ricardomolina/logo.svg" width="150" id="ricardo-molina--ingrentia">
+
 - **Descripción:** Webs corporativas.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
@@ -81,7 +83,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### Signo Delta
+<img src="screenshots/signodelta/logo.svg" width="150" id="signo-delta">
+
 - **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
@@ -89,7 +92,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### Aymerich Comunicació
+<img src="screenshots/aymerich/logo.svg" width="150" id="aymerich-comunicació">
+
 - **Descripción:** Web corporativa de comunicación.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
@@ -97,7 +101,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### AIA – Siopeia
+<img src="screenshots/siopeia/logo.svg" width="150" id="siopeia">
+
 - **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
@@ -105,7 +110,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### OTS Group
+<img src="screenshots/otsgroup/logo.svg" width="150" id="ots-group">
+
 - **Descripción:** Web corporativa.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por el cliente.  
@@ -113,7 +119,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ---
 
-### Ffuuss – Customizador de productos
+<img src="screenshots/ffuuss/logo.svg" width="150" id="ffuuss">
+
 - **Descripción:** Web corporativa.
 - **Tecnologías:** WordPress, tema personalizado y customizador de productos.  
 - **Diseño:** Proporcionado por el cliente (el diseño actual es diferente).  
@@ -121,8 +128,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Repo asociado:** [doityourself-handdryer-customizer](https://github.com/zeliuk/doityourself-handdryer-customizer)  
 
 ---
+<img src="screenshots/commonthinking/logo.svg" width="150" id="common-thinking">
 
-### Common Thinking
 - **Descripción:** Prototipo web (sin finalizar). El proyecto no siguió adelante.  
 - **Tecnologías:** WordPress.  
 - **URL:** [commonthinking.net](https://commonthinking.net)  
