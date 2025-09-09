@@ -9,10 +9,14 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ### Helefante diseño y comunicación <img src="screenshots/helefante/favicon.png" width="100" height="100">
 
-<h3 style="display: flex;align-items: center;">
-	Helefante diseño y comunicación
-	<img src="screenshots/helefante/favicon.png" width="50" height="50">
-</h3>
+
+<table>
+  <tr>
+    <td valign="middle"><img src="screenshots/helefante/favicon.png" width="50" height="50" alt="Helefante"></td>
+    <td valign="middle"><h3>Helefante diseño y comunicación</h3></td>
+  </tr>
+</table>
+
 - **Descripción:** Web corporativa de la agencia. Integración de elementos 3D con **Three.js**.
 - **Tecnologías:** WordPress, Three.js, SCSS, PHP.
 - **URL:** [helefante.com](https://helefante.com)  
