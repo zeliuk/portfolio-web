@@ -43,6 +43,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### Caternews Digital
+<img src="screenshots/caternews/logo.svg" width="150">
+
 - **Descripción:** Portal de noticias relacionadas con el sector HORECA.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por Helefante.  
