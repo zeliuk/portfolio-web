@@ -63,6 +63,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ![Fragrance Science](screenshots/fragrancescience/screenview_fragrancescience_1.gif)
 
+![Fragrance Science](screenshots/fragrancescience/screenview_fragrancescience_2.gif)
+
 ---
 
 <img src="screenshots/ricardomolina/logo.svg" height="50" id="ricardo-molina--ingrentia">
