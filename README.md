@@ -55,6 +55,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ---
 
 ### Restaurants Escribà
+<img src="screenshots/escriba/logo.svg" width="150">
+
 - **Descripción:** Web corporativa con reservas online, diseño personalizado. Cartas digitales.
 - **Tecnologías:** WordPress, PHP, SCSS.  
 - **Diseño:** Proporcionado por Helefante.  
