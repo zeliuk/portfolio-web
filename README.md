@@ -27,8 +27,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 ## Proyectos destacados
 
 
-### Helefante diseño y comunicación
-<img src="screenshots/helefante/logo.svg" width="150">
+<img src="screenshots/helefante/logo.svg" width="150" id="helefante-diseño-y-comunicación">
 
 - **Descripción:** Web corporativa de la agencia. Integración de elementos 3D con **Three.js**.
 - **Tecnologías:** WordPress, Three.js, SCSS, PHP.
@@ -50,7 +49,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Diseño:** Proporcionado por Helefante.  
 - **URL:** [caternewsdigital.com](https://caternewsdigital.com)
 
-![Caternews](screenshots/caternews/screenshot_caternews_1.png)
+![Caternews](screenshots/caternews/screenview_caternews_1.gif)
 
 ---
 
