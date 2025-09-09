@@ -48,7 +48,9 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - **Descripción:** Portal de noticias relacionadas con el sector HORECA.  
 - **Tecnologías:** WordPress, tema personalizado.  
 - **Diseño:** Proporcionado por Helefante.  
-- **URL:** [caternewsdigital.com](https://caternewsdigital.com)  
+- **URL:** [caternewsdigital.com](https://caternewsdigital.com)
+
+![Caternews](screenshots/caternews/screenshot_caternews_1.png)
 
 ---
 
