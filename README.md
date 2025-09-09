@@ -7,13 +7,10 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ## 🚀 Proyectos destacados
 
-### Helefante diseño y comunicación <img src="screenshots/helefante/favicon.png" width="100" height="100">
-
-
 <table>
   <tr>
-    <td valign="middle"><img src="screenshots/helefante/favicon.png" width="50" height="50" alt="Helefante"></td>
-    <td valign="middle"><h3>Helefante diseño y comunicación</h3></td>
+    <td valign="middle" style="padding:0; border:0px;"><img src="screenshots/helefante/favicon.png" width="40" height="40" alt="Helefante"></td>
+    <td valign="middle" style="padding:0; border:0px;"><h3>Helefante diseño y comunicación</h3></td>
   </tr>
 </table>
 
